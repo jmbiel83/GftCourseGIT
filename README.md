@@ -1,4 +1,5 @@
 # GftCourseGIT
 Curso de GIT de Gft
-Update readme
-[x] Second change
+-[x]1st Update readme
+-[x]2nd change
+-[x]3rd change
